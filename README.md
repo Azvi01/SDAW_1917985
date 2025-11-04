@@ -5,6 +5,10 @@
 **Repositorio base para la práctica entregable.**
 
 ---
+## Información técnica añadida desde rama 2
+(COPIAR AQUÍ LA RESPUESTA POR EL COMANDO INDICADO EN EL
+PÁRRAFO ANTERIOR)
+
 
 ## Descripción
 Proyecto mínimo que contiene una página `index.html` con un botón que muestra el mensaje de bienvenida:
