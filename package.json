@@ -1,0 +1,15 @@
+{
+  "name": "sdaw_1917985",
+  "version": "1.0.0",
+  "description": "Proyecto base para la práctica 'Uso de repositorios digitales (Git)'",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Javier Díaz López",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": []
+}
