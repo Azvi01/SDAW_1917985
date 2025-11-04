@@ -5,6 +5,839 @@
 **Repositorio base para la práctica entregable.**
 
 ---
+## Información técnica añadida desde rama 2
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+:...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+:...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+:...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+:...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit 5ff28fb032f6bf211dd8a208b9fe20b452391124 (HEAD -> rama2_javierdiaz)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:45:14 2025 +0100
+
+    Cambios en readme desde rama2
+
+commit cd35ff2d61c050aba61a995da77ffd6636665417 (main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:36:21 2025 +0100
+
+    Ajuste en el fondo del index.html
+
+commit b622b8326db297af6970b546be5e687c19b9c7a1
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:35:08 2025 +0100
+
+    Cambios en index.html y script.js
+
+commit 5389e3dc70a97f0baa5ee4211aae0310228672d3 (origin/main)
+Author: azvi01 <javierdiazlopez00@gmail.com>
+Date:   Tue Nov 4 19:17:08 2025 +0100
+
+    proyecto base
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+
 
 ## Información técnica añadida desde rama 1
 En esta sección se describen los principales comandos de Git
